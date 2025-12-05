@@ -15,4 +15,4 @@ pip install numpy matplotlib pandas seaborn scikit-learn imbalanced-learn xgboos
 ```
 ## Running the codes
 Run the "model_runners.py" file. This will generate the label ratio comparison figure and all the comparison tables.
-To generate the figures, run the "model_runners.py" file. This will generate three classwise performance figures and two overall performance figures.
+To generate the figures, run the "figure_generators.py" file. This will generate three classwise performance figures and two overall performance figures.
