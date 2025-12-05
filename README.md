@@ -14,5 +14,5 @@ To install all dependencies, run:
 pip install numpy matplotlib pandas seaborn scikit-learn imbalanced-learn xgboost
 ```
 ## Running the codes
-Then run the "model_runners.py". This will generate the label ratio comparison figure and all the comparison tables.
+Run the "model_runners.py" file. This will generate the label ratio comparison figure and all the comparison tables.
 To generate the figures, run the "model_runners.py" file. This will generate three classwise performance figures and two overall performance figures.
