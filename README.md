@@ -11,7 +11,7 @@ This GitHub project includes **two Python scripts** and **one input dataset**.
 To install all dependencies, run:
 
 ```bash
-pip install numpy matplotlib pandas seaborn scikit-learn imbalanced-learn xgboost
+conda install numpy matplotlib pandas seaborn scikit-learn imbalanced-learn xgboost
 ```
 ## Running the codes
 Run the "model_runners.py" file. This will generate the label ratio comparison figure and all the comparison tables.
