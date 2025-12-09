@@ -99,7 +99,7 @@ def KFold_Cross_Validation(model,X,y,k=5):
     
 
 # Change this with the path to the "oral_cancer_prediction_dataset.csv"
-base_dir = "/home/FCAM/nahmed/CSE5819_project/"
+base_dir = ""
 path = base_dir + "oral_cancer_prediction_dataset.csv"
 
 print("Path to dataset files:", path)
@@ -353,4 +353,4 @@ Test_performance("Neural Network With Oversampling",model,X_test,y_test,performa
 
 # run
 
-# !python3 /home/FCAM/nahmed/CSE5819_project/cse5819_project.py
+# python3 cse5819_project.py
