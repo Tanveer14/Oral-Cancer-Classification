@@ -74,7 +74,7 @@ def generate_classwise_performance_figure(metric_name, file_path, save_path=None
 
 
 if __name__ == "__main__":
-    base_dir = "/home/FCAM/nahmed/CSE5819_project/"
+    base_dir = ""
 
     file_paths = {
         "overall_performance": base_dir + "performance_copy.csv",
